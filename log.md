@@ -1,30 +1,34 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+## Day 0: July 25, 2016
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Thoughts: 
+[Read today's thoughts on blog](http://anotherconsolelog.com/2016/07/26/Hello-world.html)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Work: 
+* Free Code Camp Challenges:
+  * Trigger Click Events With JQuery
+  * Change Text With Click Events
+  * Get JSON With The JQuery getJSON Method
+  * Convert JSON Data To HTML
+  * Render Images From Data Sources
+  * Prefilter JSON
+  * Get Geolocation Data
+* Worked on [Random Quote Generator](http://codepen.io/chznbaum/pen/EyLoOv)
+* Set up [Code Journal/Blog](http://anotherconsolelog.com)
 
-**Link to work:** [Calculator App](http://www.example.com)
+## Day 1: July 26, 2016
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Thoughts: 
+[Read today's thoughts on blog](http://anotherconsolelog.com/2016/07/26/When-You-Hit-That-Wall.html)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Work:
+* Finished (for now) [Random Quote Generator](http://codepen.io/chznbaum/pen/EyLoOv)
+* Worked on [Local Weather App](http://codepen.io/chznbaum/pen/QEAJRz)
+* Retooled posts on [blog](http://anotherconsolelog.com) so they allow Twitter Summary Cards with Large Pictures. Will have to learn more JavaScript so I can edit my theme's settings and automatically apply the right settings rather than re-doing this with each post.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+## Day 2: July 27, 2016
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Thoughts:
 
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### Work:

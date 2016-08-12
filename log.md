@@ -55,3 +55,66 @@
 
 ### Work:
 * Reviewed code on [Personal Portfolio](http://anotherconsolelog.com) for issues. No wifi to push anything.
+
+## Day 7: August 1, 2016
+
+### Work:
+* Reviewed old project code
+* Started Twitch TV project html
+
+## Day 8: August 2, 2016
+
+### Work:
+* Progress on Twitch TV Viewer, need to fix usernames, search, and buttons
+
+## Day 9: August 3, 2016
+
+### Work:
+* Completed [Twitch TV Viewer](http://anotherconsolelog.com/twitchtv/index.html)
+
+## Day 10: August 4, 2016
+
+### Work:
+* SoloLearn JavaScript practice
+* Started proposal for side project
+
+## Day 11: August 5, 2016
+
+### Work:
+* Algorithm block
+* JavaScript study reading Jon Duckett
+* JavaScript practice on SoloLearn
+
+## Day 12: August 6, 2016
+
+### Work:
+* Structure and functionality of JavaScript Calculator
+* Updated [Weather App](http://anotherconsolelog.com/localweatherapp/index.html) to use geolocation/geocoding and Dark Sky API, add details and make images weather-specific
+
+## Day 13: August 7, 2016
+
+### Work:
+* Bash practice on Cloud9
+
+## Day 14: August 8, 2016
+
+### Work:
+* git practice on Cloud9
+* Ruby practice on Codeacademy
+
+## Day 15: August 9, 2016
+
+### Work:
+* Side project accepted, research stage begun
+* Ruby practice on Codeacademy and The Odin Project
+
+## Day 16: August 10, 2016
+
+### Work:
+* Installed Ubuntu distro of Linux, along with git, Ruby, RVM, RSpec, Heroku and Sublime Text
+* Completed problem [00-hello](http://github.com/chznbaum/learn_ruby) of The Odin Project's Project Ruby
+
+## Day 17: August 11, 2016
+
+### Work:
+* Completed problems [01-temperature and 02-calculator](http://github.com/chznbaum/learn_ruby) of The Odin Project's Project Ruby

@@ -112,9 +112,14 @@
 
 ### Work:
 * Installed Ubuntu distro of Linux, along with git, Ruby, RVM, RSpec, Heroku and Sublime Text
-* Completed problem [00-hello](http://github.com/chznbaum/learn_ruby) of The Odin Project's Project Ruby
+* Completed problem [00-hello](http://github.com/chznbaum/learn_ruby) of The Odin Project's [Project Ruby](http://www.theodinproject.com/web-development-101/ruby)
 
 ## Day 17: August 11, 2016
 
 ### Work:
-* Completed problems [01-temperature and 02-calculator](http://github.com/chznbaum/learn_ruby) of The Odin Project's Project Ruby
+* Completed problems [01-temperature and 02-calculator](http://github.com/chznbaum/learn_ruby) of The Odin Project's [Project Ruby](http://www.theodinproject.com/web-development-101/ruby)
+
+## Day 18: August 12, 2016
+
+### Work:
+* Completed problems [03-simon-says 04-pig-latin and 05-book-titles](http://github.com/chznbaum/learn_ruby) of The Odin Project's [Project Ruby](http://www.theodinproject.com/web-development-101/ruby)

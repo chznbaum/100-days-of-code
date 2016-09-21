@@ -310,8 +310,28 @@
 
 ## Day 52: September 16, 2016
 
+### Work:
+* Completed FCC Algoritms:
+  * [Validate US Telephone Numbers](https://github.com/chznbaum/algorithms/free_code_camp/arguments_optional.md)
+  * [Symmetric Difference](https://github.com/chznbaum/algorithms/free_code_camp/symmetric_difference.md)
+  * [Exact Change](https://github.com/chznbaum/algorithms/free_code_camp/exact_change.md)
+
 ## Day 53: September 17, 2016
+
+### Work:
+* Refactored Tribute Page to pull from JSON created for Random Quote Generator; it now makes a tribute page for each speaker cited.
 
 ## Day 54: September 18, 2016
 
+### Work:
+* Refactored Weather App.
+
 ## Day 55: September 19, 2016
+
+### Work:
+* Worked on updating broken Twitch TV project. Shelving this project until after portfolio update is shipped. Added most recent 23 algorithms to repository.
+
+## Day 56: September 20, 2016
+
+### Work:
+* Refactored a lot. Started adding documentation, wiki. Merged changes to live site. Assessments for interview.

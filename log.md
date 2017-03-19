@@ -37,3 +37,22 @@ Downside is the time spent on my Codepen profile meant less time for the #30Days
   * Customized Codepen profile CSS to pair with website redesign and business cards [View on CodePen](https://codepen.io/chznbaum/)
 * #30Days30Sites:
   * Day 2 Challenge: Event Invite [View on Codepen](https://codepen.io/chznbaum/full/gmoPKj/)
+
+## Day 2: March 18, 2017
+
+### Thoughts
+The kids were a handful, and I had a migraine all day, so I was thinking I'd knock today's challenge out quickly.
+
+![So good luck with that](https://media.giphy.com/media/4mQAsYNaFGbHG/giphy.gif)
+
+Of course, when I try to do things quickly and intend to make them as simple as possible, they don't always turn out so simple. I saw different design concepts I wanted to try out just to see if I could figure out how to do them because they looked cool.
+
+So I spent way more time than I intended to. One of these days I'll go to bed at a decent hour.
+
+Since it's especially valid tonight, a repeat:
+
+![Tiana collapses onto bed, exhausted](https://media.giphy.com/media/W0Tg8pls9xMuQ/giphy.gif)
+
+### Work:
+* #30Days30Sites:
+  * Day 3 Challenge: Tourist Attraction [View on Codepen](http://codepen.io/chznbaum/full/gmovyO/)

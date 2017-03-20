@@ -40,7 +40,7 @@ Downside is the time spent on my Codepen profile meant less time for the #30Days
 
 ## Day 2: March 18, 2017
 
-### Thoughts
+### Thoughts:
 The kids were a handful, and I had a migraine all day, so I was thinking I'd knock today's challenge out quickly.
 
 ![So good luck with that](https://media.giphy.com/media/4mQAsYNaFGbHG/giphy.gif)
@@ -56,3 +56,14 @@ Since it's especially valid tonight, a repeat:
 ### Work:
 * #30Days30Sites:
   * Day 3 Challenge: Tourist Attraction [View on Codepen](http://codepen.io/chznbaum/full/gmovyO/)
+
+## Day 3: March 19, 2017
+
+### Thoughts:
+Ok, if there's anything where simplicity is not just nice but an actual requirement, it's a landing page. This made a great opportunity to force myself to do a simple design, keep it on my existing brand, and still try a couple things I hadn't done before. This was really fun to work on, and I was excited to get it done within about an hour and a half.
+
+![Success](https://media.giphy.com/media/zaqclXyLz3Uoo/giphy.gif)
+
+### Work:
+* #30Days30Sites:
+  * Day 4 Challenge: Landing Page [View on Codepen](http://codepen.io/chznbaum/full/MpQggY/)

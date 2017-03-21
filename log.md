@@ -67,3 +67,19 @@ Ok, if there's anything where simplicity is not just nice but an actual requirem
 ### Work:
 * #30Days30Sites:
   * Day 4 Challenge: Landing Page [View on Codepen](http://codepen.io/chznbaum/full/MpQggY/)
+
+## Day 4: March 20, 2017
+
+### Thoughts:
+So I understand that I have a tendency to stay up late working on things I'm interested in...like 3:00 in the morning late. Not great when you have two littles that will be up by 7. So some adjustments need to be made.
+
+The prompts for the #30Days30Sites challenge come in the late afternoon for me, which leads to me doing them after the kids go to bed rather than at their naptime or another better time. So tonight I set up the HTML and did some of the pre-work on the design, sourcing graphics and getting a feel for how online menus tend to look and function. However, I will wait until tomorrow morning to actually work on putting together the CSS and any JavaScript functionality. This should get me on a better schedule with remaining prompts so that I'm less likely to excitedly stay up all night when that's not a great option.
+
+![Man points to forehead, gesturing to think](https://media.giphy.com/media/d3mlE7uhX8KFgEmY/giphy.gif)
+
+You can't stay up all night if you're doing the work in the daytime.
+
+### Work:
+* #30Days30Sites:
+  * Day 5 Challenge: Menu
+    * Set up HTML structure locally and acquired graphics

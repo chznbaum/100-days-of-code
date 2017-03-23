@@ -19,7 +19,7 @@ I'm excited to keep up the momentum I've had over the last 7 months and learn ne
 
 ### Work: 
 * #30Days30Sites:
-  * Day 1 Challenge: Portfolio Page [View on Codepen](http://codepen.io/chznbaum/full/mWBwjB/)
+  * Day 1 Challenge: Portfolio Page [View on CodePen](http://codepen.io/chznbaum/full/mWBwjB/)
     * Redesigned to pair well with my business cards and show more projects since I wasn't satisfied with the last redesign
     * Pushed changes to [GitHub](https://github.com/chznbaum/chznbaum.github.io), and it can be viewed on the [live site](http://chazonabaum.com/)
 
@@ -36,7 +36,7 @@ Downside is the time spent on my Codepen profile meant less time for the #30Days
 * Branding:
   * Customized Codepen profile CSS to pair with website redesign and business cards [View on CodePen](https://codepen.io/chznbaum/)
 * #30Days30Sites:
-  * Day 2 Challenge: Event Invite [View on Codepen](https://codepen.io/chznbaum/full/gmoPKj/)
+  * Day 2 Challenge: Event Invite [View on CodePen](https://codepen.io/chznbaum/full/gmoPKj/)
 
 ## Day 2: March 18, 2017
 
@@ -55,7 +55,7 @@ Since it's especially valid tonight, a repeat:
 
 ### Work:
 * #30Days30Sites:
-  * Day 3 Challenge: Tourist Attraction [View on Codepen](http://codepen.io/chznbaum/full/gmovyO/)
+  * Day 3 Challenge: Tourist Attraction [View on CodePen](http://codepen.io/chznbaum/full/gmovyO/)
 
 ## Day 3: March 19, 2017
 
@@ -66,7 +66,7 @@ Ok, if there's anything where simplicity is not just nice but an actual requirem
 
 ### Work:
 * #30Days30Sites:
-  * Day 4 Challenge: Landing Page [View on Codepen](http://codepen.io/chznbaum/full/MpQggY/)
+  * Day 4 Challenge: Landing Page [View on CodePen](http://codepen.io/chznbaum/full/MpQggY/)
 
 ## Day 4: March 20, 2017
 
@@ -83,3 +83,42 @@ You can't stay up all night if you're doing the work in the daytime.
 * #30Days30Sites:
   * Day 5 Challenge: Menu
     * Set up HTML structure locally and acquired graphics
+
+## Day 5: March 21, 2017
+
+### Thoughts:
+This time, I figured, I had the HTML set up, and I could throw together amenu page pretty quickly. The longer I looked at what I was working on, though, the more dissatisfied I was with it. The card approach I was using seemed off, better suited to retail. So by the middle of the day I scrapped it altogether.
+
+Instead, I decided to try out a chalkboard look I'd seen in some trendy menu designs. This is sure to look more interesting, but the photoshopping involved! 😩 I'm spending more time on that than anything else.
+
+### Work:
+* #30Days30Sites:
+  * Day 5 Challenge: Menu
+    * Restarted project. Started photoshopping graphics.
+
+## Day 6: March 22, 2017
+
+### Thoughts:
+So I've done several days of the #30Days30Sites challenge, and at this point I have noticed some things:
+
+* I haven't really had the time to work on any Vue or other new front-end technologies.
+* I'm interested in experimenting with frameworks other than Bootstrap and Materialize, like Foundation and jQueryUI, to see how their strengths and weaknesses differ in streamlining the front-end development process. Like with Vue, haven't actually had the time to play around with them like I'd like to.
+* I can get pages churned out in a day, but I'm producing more hacky code in some projects just to make sure it looks good enough from the browser to not be completely embarrassing. Not how I like to do things, especially when I need more of my code to look polished.
+* I'm devoting largely the same amount of time to projects that really draw passion out of me as ones that I'm not nearly as excited about, and I think it shows.
+
+I'd already come up with a system for managing my time to ensure that I could juggle caring for the kids all day, running the budding nonprofit, building projects, searching for work, blogging as I can, and learning new code. And knocking out a site in a day takes up too much time in any one day to keep that system from collapsing.
+
+However...
+
+I really enjoy the concept of the #30Days30Sites challenge, and many of the challenge concepts are useful to get me trying different layouts, styles, and types of sites. And it has been encouraging me to be more efficient and make different choices on some projects. I want to retain as much of the benefit to this as possible.
+
+So I see two possible options:
+
+1. Work on a #30Days30Sites challenge for a much shorter span of time each day, understanding that it may take a few days or a week to ship a site I'm happy with (both in the browser and the actual code).
+2. Work on #30Days30Sites challenges in spurts, a day or two days at a time, where other items take second priority. In between challenges, my regular structure would be in place, with learning taking a bigger chunk than it usually does.
+
+Personally, I'm leaning toward the latter. I'll keep a running tally of what each of the challenges are for each numbered day, and then work through them in these little sprints. If a particular day's challenge doesn't inspire me, then I'll skip it and come back to it.
+
+### Work:
+* #30Days30Sites:
+  * Day 5 Challenge: Menu [View on CodePen](http://codepen.io/chznbaum/full/evMrLo)

@@ -132,5 +132,7 @@ I'm working on figuring out exactly how I'd want to lay it out within my website
 
 Otherwise, got an idea for a project to work on and put a good amount of work into it. For right now, it's a super secret project (I don't do those often), so not too many details for now. Should take a few days to complete.
 
+![Jimmy Fallon dancing. Text: Secret, secret, I've got a secret.](https://media.giphy.com/media/wDGCA2dv9VJxC/giphy.gif)
+
 ### Work:
 * Super Secret Project

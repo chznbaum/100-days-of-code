@@ -122,3 +122,15 @@ Personally, I'm leaning toward the latter. I'll keep a running tally of what eac
 ### Work:
 * #30Days30Sites:
   * Day 5 Challenge: Menu [View on CodePen](http://codepen.io/chznbaum/full/evMrLo)
+
+## Day 7: March 23, 2017
+
+### Thoughts:
+I've decided that as I complete projects, I'm going to share what the process behind them look like: notes, flowcharts, sketches, etc. One, because folks just starting out don't always realize that these planning tools should often come first (and make solving problems easier). And two, because it gives a glimpse at my thought process and how I work, either for folks to see what they can steal for themselves or for potential employers to feel comfortable with my process.
+
+I'm working on figuring out exactly how I'd want to lay it out within my website, as well as if there are any tools I'd like to try to simplify some of my existing methods. [Paul](https://twitter.com/CodePaulCode) mentioned [draw.io](https://draw.io) and its ability to save charts directly into GitHub or a cloud service, so I'll check it out.
+
+Otherwise, got an idea for a project to work on and put a good amount of work into it. For right now, it's a super secret project (I don't do those often), so not too many details for now. Should take a few days to complete.
+
+### Work:
+* Super Secret Project

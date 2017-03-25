@@ -136,3 +136,16 @@ Otherwise, got an idea for a project to work on and put a good amount of work in
 
 ### Work:
 * Super Secret Project
+
+## Day 8: March 24, 2017
+
+### Thoughts:
+Stayed primarily in a user experience/design frame of mind today. Busy busy busy with mapping and planning. Playing around with CSS grid is pretty incredible, though. Imagine, CSS tracks in two dimensions!
+
+### Work:
+* Super Secret Project
+  * Massive amount of user story mapping through a few releases
+  * Layout sketching
+  * Learning CSS grid to implement it on the project with fallbacks (yay for @supports)
+
+![Layout sketches](./assets/layout_sketching_2017_03_25.JPG)

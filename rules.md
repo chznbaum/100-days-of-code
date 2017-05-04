@@ -13,6 +13,10 @@ May 1st, 2017
 4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
 5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. I've just started learning to code, so my work will include the curriculum of [Free Code Camp(http://www.freecodecamp.com/) as well as any supplemental materials/work needed to grasp it until I am at a point where I can do just projects for at least that hour.
 
+## Personal Rules
+1. Only active coding time will be counted toward the challenge. I will measure my coding time using [WakaTime](https://wakatime.com) to ensure I am actively creating or editing code for at least 1 hour every day.
+2. I will produce at least one Git commit every day.
+
 
 ## Ideas to make this challenge more effective
 1. To increase the chances of success, it's a requirement that you add a link to each of the day posts in the [log](log.md). It can be a link to a commit on GitHub, a link to a blog post

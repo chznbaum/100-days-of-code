@@ -43,7 +43,7 @@ Pressed to get the initial styles of the app done, even if it took working well 
 
 ## Day 3: May 3, 2017
 
-**Active Coding Time:** 1 hour, 23 minutes
+**Active Coding Time:** 2 hours, 25 minutes
 
 **Commits:** 5
 
@@ -57,3 +57,28 @@ Finished shortly before 2 in the morning and went to bed exhausted. More thought
   * Implemented styles for portfolio show page and forms
   * Refactored navigation and active statuses
   * Merged design branch to GitHub master
+
+## Day 4: May 4, 2017
+
+**Active Coding Time:** 2 hours, 19 minutes
+
+**Commits:** 14
+
+### Thoughts: 
+Life tends to get...complicated.
+
+My sister is apparently expecting, and about six months along at that. So I'm now getting a site set up that she can use for her baby shower and communicating updates with family and friends. In for a lot of work to be done in a relatively short period of time.
+
+Today, I focused on configuring the application, establishing the static pages and setting up some preliminary layout and styles:
+
+![Baby Shower Homepage Screenshot](Screenshot_from_2017-05-05_00-46-27.png)
+
+The static pages will change some once the really dynamic content is set up, but it's a good place to start.
+
+Prior to working on setting the baby shower website up, I took a look at Docker and did some practice with dockerizing a Ruby app. Definitely needs work, but I can see why it's so often recommended.
+
+### Work:
+* Baby Shower (Ruby on Rails):
+  * Generated app and pages controller
+  * Configured the app and database
+  * Implemented the preliminary layout and styles for static pages

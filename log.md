@@ -71,7 +71,7 @@ My sister is apparently expecting, and about six months along at that. So I'm no
 
 Today, I focused on configuring the application, establishing the static pages and setting up some preliminary layout and styles:
 
-![Baby Shower Homepage Screenshot](Screenshot_from_2017-05-05_00-46-27.png)
+![Baby Shower Homepage Screenshot](./assets/Screenshot_from_2017-05-05_00-46-27.png)
 
 The static pages will change some once the really dynamic content is set up, but it's a good place to start.
 

@@ -82,3 +82,45 @@ Prior to working on setting the baby shower website up, I took a look at Docker 
   * Generated app and pages controller
   * Configured the app and database
   * Implemented the preliminary layout and styles for static pages
+
+## Day 5: May 5, 2017
+
+**Active Coding Time:** 9 hours, 15 minutes
+
+**Commits:** 53
+
+### Thoughts:
+Ok, so there's not too much time to get this baby shower site together. My sister only recently discovered she's expecting, and she's already about 6 months along. So there will probably be a lot of heavy-duty coding days while I sprint to get this finished in time to use it for the baby shower.
+
+Today, I packed in over 9 hours of active code editing time, and it showed with a lot of progress:
+
+The first feature to build was the updates feature, like a microblogging section for the mom-to-be and her helpers to share news, photos, etc., involving the pregnancy, shower, and baby:
+
+![Baby Shower Updates Page Screenshot](./assets/Screen_Shot_2017-05-06_at_08.45.55-fullpage.png)
+
+After knocking out the basics of the updates feature, which will change with the addition of comments, etc., I got started on authentication and authorization.
+
+### Work:
+* Baby Shower (Ruby on Rails):
+  * Implemented updates feature, including:
+    * Scaffolding CRUD functionality
+    * Implementing custom layout
+    * Seeding sample data
+    * Implementing custom styles
+    * Customizing titles
+    * Implementing pagination
+  * Implemented authentication, including:
+    * Installing and configuring devise
+    * Customizing routes
+    * Implementing dynamic view rendering for authentication with a view helper
+    * Adding custom parameters for registration and editing account
+    * Adding concern for devise params
+    * Integrating helper method from ActionView
+    * Adding guest user that inherits from devise user
+    * Implementing custom styles for authentication and editing pages
+  * Implemented authorization engine for updates using petergate
+  * Implemented relationship between users and their updates, including:
+    * Adding reference to updates table
+    * Reseeding database with sample data
+    * Implementing relationship in views, forms
+    * Adding avatars to users

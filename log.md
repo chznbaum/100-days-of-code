@@ -100,6 +100,10 @@ The first feature to build was the updates feature, like a microblogging section
 
 After knocking out the basics of the updates feature, which will change with the addition of comments, etc., I got started on authentication and authorization.
 
+I utilized devise and petergate for base functionality so that I could focus more on tailoring the features, functionality, and styles, and so I could move on to database relationships and the next feature.
+
+![Baby Shower Register Screenshot](./assets/Screenshot_from_2017-05-06_08-55-59.png)
+
 ### Work:
 * Baby Shower (Ruby on Rails):
   * Implemented updates feature, including:

@@ -128,3 +128,31 @@ I utilized devise and petergate for base functionality so that I could focus mor
     * Reseeding database with sample data
     * Implementing relationship in views, forms
     * Adding avatars to users
+
+## Day 6: May 6, 2017
+
+**Active Coding Time:** 10 hours, 46 minutes
+
+**Commits:** 24
+
+### Thoughts:
+Today was another intensive day of getting as much of the baby shower site done as possible.
+
+The focus for the day was implementing comments and likes, as well as improving the views for updates.
+
+![Baby Shower Update Screenshot with Comments and Likes](./assets/Screen_Shot_2017-05-07_at_00.38.08-fullpage.png)
+
+### Work:
+* Baby Shower (Ruby on Rails):
+  * Implemented users index and profiles, including:
+    * Implementing conditional buttons/links
+    * Refactoring default mom variable to the user with the mom role
+    * Updating links and image sizes
+    * Refactored update cards to include avatars
+  * Implemented comments, including:
+    * Creating comments model
+    * Implementing `has_many/belongs_to` polymorphic relationship
+    * Customizing routes for comments
+    * Implementing custom comment views
+    * Adding comment number display to updates and comments
+    * Implemented likes for updates and comments
